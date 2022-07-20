@@ -1,0 +1,63 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.page {
+	max-width: 1400px;
+	margin: auto;
+}
+.header {
+	background: grey;
+	width: 100%;
+	height: 100px;
+}
+.block {
+	display: table;
+	width: 100%;
+	margin-top: 5px;
+}
+.table {
+	display: table-row;
+	margin: 5px;
+}
+.middle {
+	background: linear-gradient(purple, greenyellow);
+	width: 24.5%;
+	height: 500px;
+	display: table-cell;
+	
+}
+.left {
+	background: linear-gradient(45deg, red, blue);
+	width: 24.5%;
+	height: 500px;
+	display: table-cell;
+
+}
+.right {
+	background: orange;
+	width: 24.5%;
+	height: 500px;
+	display: table-cell;
+	
+}
+.for {
+	background: lightseagreen;
+	width: 24.5%;
+	height: 500px;
+	display: table-cell;
+
+}
+.footer {
+	background: black;
+	width: 100%;
+	height: 150px;
+
+}
+@media only screen and (max-width: 400px) {
+	.middle {
+		width: 39.00%;
+		left: 0;
+		position: relative
+	}
+}

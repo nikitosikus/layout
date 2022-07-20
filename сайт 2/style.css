@@ -1,0 +1,169 @@
+body{
+	font-family: Gilroy-Bold, sans-serif;
+	font-size: medium;
+	width: 950px;
+	margin: auto;
+}
+a:hover{
+	color: #000;
+
+}
+/*---------------------------------------------------------*/
+#header{
+	font-size: 150%;
+	border-bottom: solid 1px #828282;
+}
+.a_header{
+	text-decoration: none;
+	color: #828282;
+
+}
+ul{
+	padding-left: 0px;
+	text-align: center;
+}
+ul li{
+	list-style-type: none;
+	display: inline-block;
+	margin: 20px 47px 20px 47px;
+
+}
+/*---------------------container-------------------------------------*/
+.img_denis{
+	width: 950px;
+}
+.name_years{
+	
+}
+.name{
+	font-size: 250%;
+	font-weight: 700;
+	display: inline-block;
+	top: 40px;
+	bottom: 30px;
+	color: #070707
+;
+}
+.years{
+	display: inline-block;
+	margin-left: 300px;
+	margin-top: 90px;
+	margin-bottom: 50px;
+	font-weight: 500;
+	color: #070707;
+}
+/*-----------------------------about_me-----------------------------*/
+.about_me{
+	background-color: #F6F6F6;
+	text-align: center;
+	margin-top: 105px;
+	height: 390px;
+}
+.about_box{
+
+}
+.text1{
+	font-size: 250%;
+	font-weight: 700;
+	padding-top: 80px;
+	padding-bottom: 18px;
+
+}
+.text2{
+	height: 180px;
+
+}
+/*--------------------------skills------------------------------*/
+.text_skills{
+	font-size: 250%;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 90px;
+}
+.text_work{
+	text-align: center;
+	margin-top: 70px;
+}
+.img_skills{
+	height: 90px;
+	width: 90px;
+}
+.icons{
+		
+}
+.ps, .ai, .ae, .ar{
+	display: inline-block;
+	margin: 80px 70px 120px 70px;
+}
+._ps, ._ai, ._ae, ._ar{
+	text-align: center;
+	color: #828282;
+}
+.star{
+	text-align: center;
+	font-size: 120%;
+	font-weight: 700;
+}
+/*---------------------portfolio-------------------------*/
+.portfolio{
+	
+}
+._portfolio{
+	font-size: 250%;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 50px;	
+}
+.a_portfolio{
+	text-decoration: none;
+	color: #828282;
+}
+._collection{
+	text-align: center;
+	margin-bottom: 80px;
+}
+.collection{
+	width: 950px;
+}
+.portfolio_foto{
+	
+	margin-bottom: 40px;
+}
+/*--------------------------------------contacts-----------------------*/
+.contacts{
+	text-align: center;
+}
+._contacts{
+	font-size: 250%;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+.contacts_text{
+	margin-bottom: 30px;
+}
+.contacts_href{
+	display: inline-block;
+	border: solid 1px #000;
+	border-radius: 20px;
+	padding: 10px 30px 10px 30px;
+	margin-bottom: 70px;
+	font-weight: 500;
+	background-color: #000;
+
+}
+.a_contacts{
+	text-decoration: none;
+	color: #fff;
+}
+.a_contacts:hover{
+	color: #828282;
+}
+.icon_contacts{
+	margin-bottom: 40px;
+}
+.likeme{
+	font-size: 80%;
+	color: #828282;
+	margin-bottom: 120px;
+}

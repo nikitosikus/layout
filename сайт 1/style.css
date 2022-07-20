@@ -1,0 +1,169 @@
+body{
+	background-color: #cfe;
+	font-family: georgia, "time new roman", times, serif;
+	font-size: medium;
+	margin: 0px 300px 0px 300px;
+}
+header.top{
+	background-color: #3b3fb3;
+	margin: 10px 0px 0px 0px;
+	height: 100px;
+
+}
+div.title{
+	padding: 30px 10px 30px 10px;
+	font-size: 250%;
+	color: #fff;
+	font-weight: 500;
+	margin: 5px 5px -6px 5px;
+}
+.whatsapp{
+	position: absolute;
+	left: 47%;
+	top: 5%;
+}
+.number{
+	position: absolute;
+	left: 61%;
+	top: 5%;
+}
+nav{
+	background-color: #ccee;
+	padding: 10px;
+	
+}
+nav ul{
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px;
+}
+nav ul li{
+	display: inline;
+	padding: 15px;
+	text-decoration: none;
+}
+a{
+	text-decoration: none;
+	border: solid;
+	border-radius: 20px;
+	border-width: 2px;
+	padding: 2px;
+	background-color: #cfe;
+}
+#tablecontainer{
+	margin-bottom: 0px;
+}
+#tableone{
+	margin-bottom: 0px;
+}
+#sectionone, #sectiontwo{
+	display: table-cell;
+	width: 50%;
+	padding: 0px 30px 0px 30px;
+	/*border: dotted;
+	border-width: 1px;
+	border-radius: 20px;*/
+
+}
+header#toptwo, header#topthree, #top4{
+	background-color: #3b3fb3;
+	margin: 0px 0px 0px 0px;
+	height: 100px;
+	
+}
+.title2{
+	padding: 10px 50px 10px 50px;	
+}
+.toptwologo{
+	width: 100px;
+}
+.nametwo{
+	float: right;
+	font-size: 380%;
+	color: #fff;
+}
+.container{
+	padding: 0px 30px 0px 30px;
+}
+.section2{
+	float: right;
+}
+header#topthree{
+	margin-bottom: 10px;
+}
+.title3{
+	padding: 10px;
+	
+}
+.namethree{
+	float: right;
+	background: red;
+	width: 50%;
+	color: #fff;
+}
+.namethree2{
+	background: green;
+	color: #fff;
+}
+.namethree, .namethree2{
+	font-size: 400%;
+}
+.box{
+	padding: 0px 30px 0px 30px;
+}
+.text{
+	
+}
+.text2{
+	float: right;
+	width: 40%;
+	border: dotted 1px #000;
+	padding: 10px;
+}
+#top4{
+	clear: both;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.title4{
+
+}
+.name4{
+	text-align: center;
+	font-size: 300%;
+	padding: 25px;
+	color: #fff;
+}
+._container{
+	padding: 0px 30px 0px 30px;
+}
+div.navigacia{
+	float: left;
+	border: solid 1px #000;
+	width: 15%;
+	margin-right: 30px;
+	background-color: #ccee;
+	margin-bottom: 30px;
+	
+}
+.navigacia ul li{
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+}
+div.content{
+	
+}
+footer#top5{
+	clear: both;
+	background-color: #083e45;
+	margin: 0px 0px 0px 0px;
+	height: 60px;
+	padding: 20px 250px 20px 250px;
+	margin-bottom: 10px;
+}
+._footer{
+	font-size: 70%;
+	text-align: center;
+	margin-top: 50px;
+}
+	
